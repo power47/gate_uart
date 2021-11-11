@@ -1,0 +1,7 @@
+*.o
+*.plg
+*.dep
+*.bak
+*.uvgui*
+*.uvopt*
+
