@@ -1,4 +1,5 @@
-*.o
+tests/*.o
+tests/test
 *.plg
 *.dep
 *.bak
