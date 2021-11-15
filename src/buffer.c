@@ -12,6 +12,7 @@ void buffer_Init (void)
 }
 
 
+
 int buffer_push (uint8_t data)
 {
 	int ind = -1;

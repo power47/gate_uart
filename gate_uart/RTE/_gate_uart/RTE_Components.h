@@ -3,8 +3,8 @@
  * Auto generated Run-Time-Environment Configuration File
  *      *** Do not modify ! ***
  *
- * Project: 'uart' 
- * Target:  'UART' 
+ * Project: 'gate_uart' 
+ * Target:  'gate_uart' 
  */
 
 #ifndef RTE_COMPONENTS_H

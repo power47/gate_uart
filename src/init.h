@@ -1,3 +1,8 @@
+/*!
+	\file init.h
+	\brief Файл, обеспечивающий инициализацию МК.
+	\author Gorin Alexey
+*/
 
 #ifndef _INIT
 #define  INIT_EXTLBL 					extern
@@ -7,4 +12,7 @@
 
 
 
+/*!
+	\brief Функция инициализации МК.
+*/
 INIT_EXTLBL void initAll (void);

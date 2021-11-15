@@ -33,7 +33,7 @@ DbgMCU_CR = 0x00000007;
 //   <o.1>  DBG_TIM3_STOP            <i> TIM3 counter stopped when core is halted
 //   <o.0>  DBG_TIM2_STOP            <i> TIM2 counter stopped when core is halted
 // </h>
-DbgMCU_APB1_Fz = 0x06E01DFF;
+DbgMCU_APB1_Fz = 0x00000000;
 
 // <h> Debug MCU APB2 freeze register (DBGMCU_APB2_FZ)
 //                                   <i> Reserved bits must be kept at reset value
@@ -43,6 +43,6 @@ DbgMCU_APB1_Fz = 0x06E01DFF;
 //   <o.1>  DBG_TIM8_STOP            <i> TIM8 counter stopped when core is halted
 //   <o.0>  DBG_TIM1_STOP            <i> TIM1 counter stopped when core is halted
 // </h>
-DbgMCU_APB2_Fz = 0x00070003;
+DbgMCU_APB2_Fz = 0x00000000;
 
 // <<< end of configuration section >>>
