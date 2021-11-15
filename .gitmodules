@@ -1,0 +1,3 @@
+[submodule "api_uart"]
+	path = api_uart
+	url = http://github.com/power47/api_uart

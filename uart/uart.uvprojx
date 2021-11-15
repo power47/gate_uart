@@ -339,7 +339,7 @@
               <MiscControls></MiscControls>
               <Define></Define>
               <Undefine></Undefine>
-              <IncludePath></IncludePath>
+              <IncludePath>..\api_uart;..\src</IncludePath>
             </VariousControls>
           </Cads>
           <Aads>
@@ -380,6 +380,16 @@
         </TargetArmAds>
       </TargetOption>
       <Groups>
+        <Group>
+          <GroupName>api_uart</GroupName>
+          <Files>
+            <File>
+              <FileName>api_uart.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\api_uart\api_uart.c</FilePath>
+            </File>
+          </Files>
+        </Group>
         <Group>
           <GroupName>main</GroupName>
           <Files>
