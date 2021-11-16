@@ -1,3 +1,4 @@
+doxygen/
 tests/*.o
 tests/test
 *.plg
